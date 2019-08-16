@@ -1,0 +1,10 @@
+# Tabelle Arbeitsaemter
+
+Nr.|Feldname|Typ|Größe|Funktion|Bemerkung
+---|---|---|---|---|---
+1|Kuerzel|A|15|P|-
+2|Schluessel|A|15|-|-
+3|Bezeichnung|A|100|-|-
+4|StatistikID|A|16|-|-
+5|GueltigVon|D|-|-|-
+6|GueltigBis|D|-|-|-

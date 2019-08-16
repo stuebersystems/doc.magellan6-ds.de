@@ -1,0 +1,17 @@
+#  Tabelle Faecher
+
+Nr.|Feldname|Typ|Größe|Funktion|Bemerkung
+---|---|---|---|---|---
+1|Mandant|I|-|PV|Verweis auf Tabelle **Mandanten**
+2|ID|I+|-|P|-
+3|Kuerzel|A|15|-|-
+4|Schluessel|A|10|-|-	
+5|Bezeichnung|A|200|-|-	
+6|Kategorie|S|-|-|Mögliche Werte:   <br/><br/>0   = Fremdsprache<br/>1   = Religion/Ethik<br/>2   = Deutsch<br/>3   = Mathematik<br/>4   = Kunst<br/>5   = Musik<br/>6   = Sport<br/>9   = Informatik<br/>10 = Philosophie<br/>11 = Geschichte<br/>12 = Physik<br/>13 = Chemie<br/>14 = Biologie<br/>15 = Erdkunde<br/>16 = Sozialkunde<br/>17 = Wirtschaft<br/>18 = Politik<br/>19 = Darstellendes Spiel<br/>20 = Evangelische Religion<br/>21 = Katholische Religion<br/>26 = Technik<br/>27  = Pädagogik<br/>28 = Sport-Theorie<br/>29 = BWL/RW<br/>30 = BWL/VWL<br/>31 = VWL<br/>32 = Seminar<br/>33 = Gesundheit<br/>34 = Psychologie<br/>35 = Recht
+7|Aufgabenbereich|S|-|-|Mögliche Werte:<br/><br/>0 = sprachl.-lit.-künstlerisch<br/>1 = gesellschaftswiss.<br/>2 = mathem.-nat.-technisch<br/>3 = Religion<br/>4 = Sport
+8|Gruppe|A|10|-|Verweis auf Tabelle Fachgruppen
+9|KeinAbgleich|A|1|-|Kein Abgleich mit daVinci
+10|Zeugnismerkmal|A|10|-|-
+11|StatistikID|A|16|-|-	
+12|GueltigBVon|D|-|-|-	
+13|GueltigBis|D|-|-|-	
