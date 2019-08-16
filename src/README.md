@@ -2,8 +2,6 @@
 
 Dies ist die Dokumentation der Datenstruktur von [MAGELLAN 6](https://magellan.stueber.de). 
 
-Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de](http://doc.stueber.de).
-
 Dieses Dokument richtet sich hauptsächlich an Administratoren und erfahrene Benutzer, die einen Überblick über die Datenbankstruktur von MAGELLAN bekommen möchten.
 
 In folgenden Situationen können diese Informationen hilfreich sein:
@@ -16,3 +14,6 @@ In folgenden Situationen können diese Informationen hilfreich sein:
 
 Bitte beachten Sie, dass die in diesen Unterlagen enthaltenen Angaben und Daten ohne vorherige Ankündigung geändert werden können.
 
+## Weitere Dokumentationen
+
+Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de](http://doc.stueber.de).
