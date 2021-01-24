@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/kc8j3i7l7i7pox9k?svg=true)](https://ci.appveyor.com/project/stueber/doc-magellan6-ds-de)
-
 # MAGELLAN 6 Datenstruktur
 
 Dies ist die deutsche Dokumentation zu Datenstruktur von MAGELLAN 6. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
